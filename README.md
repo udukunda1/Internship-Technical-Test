@@ -29,7 +29,7 @@ A simple REST API for user management built with Node.js and Express.js. This AP
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/udukunda1/Internship-Technical-Test.git
    cd user-api
    ```
 
